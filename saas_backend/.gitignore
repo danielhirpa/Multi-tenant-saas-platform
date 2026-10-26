@@ -1,0 +1,20 @@
+# Node & Next.js dependencies and builds
+node_modules/
+.next/
+dist/
+build/
+
+# Python virtual environments & cache
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Environment secrets and local variables
+.env
+.env.local
+.env*.local
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
